@@ -1,2 +1,2 @@
-# portofolio-individu
-A collection of final projects throughout my Mathematics studies, covering data analysis, mathematical modeling, financial mathematics, optimization, and computational methods. Some data are used with permission; please use them responsibly. Belong to LinkedIn: Zakiyyah Furoida.
+# optimasi-portofolio-saham-emiten-emas
+Gold Stock Portfolio Optimization using the Mean-Variance method and Quadratic Programming. The study analyzes ANTM, UNTR, MDKA, MEDC, and PSAB under different risk constraints to identify efficient portfolio diversification and optimal returns.
